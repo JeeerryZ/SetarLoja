@@ -1,0 +1,13 @@
+name: SetarLoja
+description: Plugin de criação de lojas por jogador
+author: JerryZ
+main: me.jerryz.setarloja.SetarLoja
+api-version: "1.13"
+version: 1.0-SNAPSHOT
+commands:
+  help:
+    description: Mostra os todos os comandos
+  setloja:
+    description: Cria uma loja
+  lojas:
+    description: Lista todas as lojas
